@@ -1,0 +1,7 @@
+Order deny,allow
+Deny from all
+
+# Only allow access to specific files
+<FilesMatch "^$|^index\.html$|^script\.js$|^recipe\.json$|^bootstrap\.min\.js$|^bootstrap\.min\.css$|^jquery-3\.4\.1\.min\.js$">
+Allow from all
+</FilesMatch>

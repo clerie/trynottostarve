@@ -6,3 +6,5 @@ It's just static html, css and js. You can serve it with any webserver and try i
 ```
 python3 -m http.server
 ```
+# Contribute
+Feel free addding meals and making a pull request.

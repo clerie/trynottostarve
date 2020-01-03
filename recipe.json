@@ -1,0 +1,99 @@
+{
+  "": [
+    "$nudeln und $nudelsosse",
+    "Kartoffeln und $kartoffelsosse",
+    "Kartoffeln mit $beilage",
+    "Kartoffelpuffer und $kartoffelpuffersosse",
+    "Reis und $reissosse",
+    "$muesli",
+    "$muesli und $mueslisosse"
+  ],
+  "nudeln": [
+    "Nudeln",
+    "Spaghetti",
+    "Fusili",
+    "Bandnudeln"
+  ],
+  "nudelsosse": [
+    "$tomatensosse"
+  ],
+  "tomatensosse": [
+    "Tomatensoße mit $gemuese",
+    "Tomatensoße mit $gemuese und $gewuerz"
+  ],
+  "kaesesosse":[
+    "$kaese mit $gewuerz"
+  ],
+  "kaese": [
+    "Gouda",
+    "Gorgonzola",
+    "Mozzarella"
+  ],
+  "kartoffelsosse": [
+    "$sosse-herzhaft"
+  ],
+  "beilage": [
+    "$gemuese",
+    "$kaese"
+  ],
+  "kartoffelpuffersosse": [
+    "$sosse"
+  ],
+  "reissosse": [
+    "$sosse-herzhaft"
+  ],
+  "sosse": [
+    "$sosse-herzhaft",
+    "$sosse-suess"
+  ],
+  "sosse-herzhaft": [
+    "$tomatensosse",
+    "Quark"
+  ],
+  "sosse-suess": [
+    "$sosse-suess und $sosse-suess",
+    "Apfelmus",
+    "Zimt",
+    "Zucker",
+    "Kirschen"
+  ],
+  "gewuerz": [
+    "$gewuerz und $gewuerz",
+    "Pfeffer",
+    "Paprikapulver",
+    "Kümmel",
+    "Zwiebeln"
+  ],
+  "muesli": [
+    "$muesli mit $obst",
+    "Müsli",
+    "Cornflakes",
+    "Haferflocken",
+    "Haferflakes"
+  ],
+  "mueslisosse": [
+    "Milch",
+    "$joghurt",
+    "Saft"
+  ],
+  "joghurt": [
+    "Joghurt",
+    "$gemuese Johurt"
+  ],
+  "gemuese": [
+    "$gemuese und $gemuese",
+    "Gurke",
+    "Paprika",
+    "Tomate",
+    "Frühlinszwiebeln",
+    "Lauch",
+    "Spinat"
+  ],
+  "obst": [
+    "$obst und $obst",
+    "Apfel",
+    "Kirschen",
+    "Banane",
+    "Orangen"
+  ]
+}
